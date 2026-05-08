@@ -4,6 +4,8 @@
 
 Exploratory analysis of 16,000+ video game titles spanning multiple platforms, publishers, and genres. Investigated regional sales trends, publisher dominance by market, and built machine learning models to predict platform and understand what drives Japanese sales.
 
+![example_graph](graph_2.png)
+
 ---
 
 ## Tools
